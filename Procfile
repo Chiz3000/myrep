@@ -1,1 +1,1 @@
-web: python botyara.py
+web: python easybot.py
